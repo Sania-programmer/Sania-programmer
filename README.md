@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sania Saeed/h1>
+<h1> align="center">Hi 👋, I'm Sania Saeed</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Computer Science**
